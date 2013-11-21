@@ -1,5 +1,6 @@
 realurl
 =======
+based on upstream version 1.12.7
 
 custom patched realurl-extension f. typo3
 
